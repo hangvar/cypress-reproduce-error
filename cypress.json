@@ -1,0 +1,11 @@
+{
+  "chromeWebSecurity": false,
+  "viewportWidth": 1024,
+  "viewportHeight": 768,
+  "supportFile": "cypress/support/frontend.ts",
+  "integrationFolder": "cypress/frontend",
+  "baseUrl": "http://localhost:4200/",
+  "env": {
+    "axe": true
+  }
+}
